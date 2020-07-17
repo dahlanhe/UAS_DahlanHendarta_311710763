@@ -3,7 +3,7 @@ Sebagai tugas UAS Mobile Programming
 
 Hasil:
 
-https://youtu.be/DB0mQpswQ84
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/DB0mQpswQ84)
 
 Tampilan Awal
 ![WhatsApp Image 2020-07-17 at 23 55 50](https://user-images.githubusercontent.com/64016258/87812193-ff72a680-c889-11ea-99b3-8bf982d2692d.jpeg)
